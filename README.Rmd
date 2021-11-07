@@ -1,0 +1,115 @@
+---
+title: "README"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+# Load packages
+library(tidyverse)
+# set pander table-layout options
+library(pander)
+panderOptions('table.alignment.default', function(df)
+  ifelse(sapply(df, is.numeric), 'right', 'left'))
+panderOptions('table.split.table', Inf)
+panderOptions('big.mark', ",")
+panderOptions('keep.trailing.zeros', TRUE)
+
+```
+
+
+
+
+## Code for the main analysis of the paper "Waning Immunity After the BNT162b2 Vaccine in Israel"
+
+### Data
+
+The data for the main analysis of documented infection can be found in the file `pos_data_days11-31_7.csv` and for severe illness in `sev_data_days11-31_7.csv`. 
+To read the data into the R Statistical Software use the following code:
+```{r, echo = T}
+
+dat_positive <- read_csv("pos_data_days11-31_7.csv") %>%
+  mutate(`Vacc Period` = factor(`Vacc Period`,levels = c("JanB", "FebA", "FebB", "MarA", "MarB", "Apr", "May")), 
+         `Epi Week` = factor(`Epi Week`),
+         Sector = factor(Sector, levels = c("General Jewish", "Arab","ultra-Orthodox Jewish")),
+        `Past PCR tests` =  factor(`Past PCR tests`, levels = c("0","1","2+")),
+         N_person = as.numeric(N_person),
+        Positive =  Rate_Positive_1K*N_person/1000)
+
+dat_severe <- read_csv("sev_data_days11-31_7.csv") %>%
+  mutate(`Vacc Period` = factor(`Vacc Period`,levels = c("Jan", "Feb", "Mar", "Apr-May")), 
+         `Epi Week` = factor(`Epi Week`),
+         Sector = factor(Sector, levels = c("General Jewish", "Arab","ultra-Orthodox Jewish")),
+        `Past PCR tests` =  factor(`Past PCR tests`, levels = c("0","1","2+")),
+         N_person = as.numeric(N_person),
+       Severe =  Rate_Severe_1K*N_person/1000)
+
+
+```
+
+### Analysis
+
+To run the main analysis of the paper for documented infection use the following code. 
+
+```{r analysis, echo = T}
+formula_positive <- as.formula("Positive ~  Age +
+                         Gender +
+                         `Epi Week` +
+                        `Past PCR tests` +
+                         Sector +
+                          `Vacc Period`:Age +
+                         offset(log(N_person))")
+
+
+formula_severe <- as.formula("Severe ~   Age +
+                         Gender +
+                         `Epi Week` +
+                        `Past PCR tests` +
+                         Sector +
+                          `Vacc Period`:Age +
+                         offset(log(N_person))")
+
+analysis_positive <- glm(formula_positive, family="poisson", data=dat_positive)
+analysis_severe <- glm(formula_severe, family="poisson", data=dat_severe)
+
+```
+
+### Confidence Intervals
+
+To calculate 95% confidence interval for the rate ratio of January and May for confirmed infections in the  60 and above age group use the following code:
+```{r CIpos, echo = T}
+
+
+df <- broom::tidy(analysis_positive) %>%
+  filter(term == "Age60+:`Vacc Period`May") %>%
+  mutate(est =  round(exp(-estimate),1),
+         lower = round(exp(-estimate-1.96*std.error),1),
+         upper = round(exp(-estimate+1.96*std.error),1),
+         `Confidence Interval: Positive`= paste0(est," 95% CI: [",lower,", ",upper,"]")) %>%
+  select(`Confidence Interval: Positive`)
+
+pander::pander(df)
+
+
+
+```
+
+To calculate 95% confidence interval for the rate ratio of January and March for severe illness in the  60 and above age group use the following code:
+```{r CIsev, echo = T}
+
+
+df <- broom::tidy(analysis_severe) %>%
+  filter(term == "Age60+:`Vacc Period`Mar") %>%
+  mutate(est =  round(exp(-estimate),1),
+         lower = round(exp(-estimate-1.96*std.error),1),
+         upper = round(exp(-estimate+1.96*std.error),1),
+         `Confidence Interval: Severe`= paste0(est," 95% CI: [",lower,", ",upper,"]")) %>%
+  select(`Confidence Interval: Severe`)
+
+pander::pander(df)
+```
+
+
