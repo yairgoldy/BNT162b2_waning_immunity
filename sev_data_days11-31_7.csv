@@ -1,0 +1,649 @@
+Vacc Period,Gender,Age,Past PCR tests,Sector,Epi Week,N_person,Rate_Severe_1K
+Jan,female,16-39,0,General Jewish,07-11_07-17,25588,0
+Jan,female,16-39,0,General Jewish,07-18_07-24,25578,0
+Jan,female,16-39,0,General Jewish,07-25_07-31,25548,0
+Jan,female,16-39,0,Arab,07-11_07-17,2464,0
+Jan,female,16-39,0,Arab,07-18_07-24,2464,0
+Jan,female,16-39,0,Arab,07-25_07-31,2464,0
+Jan,female,16-39,0,ultra-Orthodox Jewish,07-11_07-17,1135,0
+Jan,female,16-39,0,ultra-Orthodox Jewish,07-18_07-24,1135,0
+Jan,female,16-39,0,ultra-Orthodox Jewish,07-25_07-31,1135,0
+Jan,female,16-39,1,General Jewish,07-11_07-17,11516,0
+Jan,female,16-39,1,General Jewish,07-18_07-24,11505,0
+Jan,female,16-39,1,General Jewish,07-25_07-31,11479,0
+Jan,female,16-39,1,Arab,07-11_07-17,1474,0
+Jan,female,16-39,1,Arab,07-18_07-24,1473,0
+Jan,female,16-39,1,Arab,07-25_07-31,1473,0
+Jan,female,16-39,1,ultra-Orthodox Jewish,07-11_07-17,657,0
+Jan,female,16-39,1,ultra-Orthodox Jewish,07-18_07-24,657,0
+Jan,female,16-39,1,ultra-Orthodox Jewish,07-25_07-31,657,0
+Jan,female,16-39,2+,General Jewish,07-11_07-17,14001,0.07142346975216056
+Jan,female,16-39,2+,General Jewish,07-18_07-24,13990,0
+Jan,female,16-39,2+,General Jewish,07-25_07-31,13977,0
+Jan,female,16-39,2+,Arab,07-11_07-17,2724,0
+Jan,female,16-39,2+,Arab,07-18_07-24,2724,0
+Jan,female,16-39,2+,Arab,07-25_07-31,2722,0
+Jan,female,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,924,0
+Jan,female,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,924,0
+Jan,female,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,924,0
+Feb,female,16-39,0,General Jewish,07-11_07-17,127831,0
+Feb,female,16-39,0,General Jewish,07-18_07-24,127755,0
+Feb,female,16-39,0,General Jewish,07-25_07-31,127635,0
+Feb,female,16-39,0,Arab,07-11_07-17,18312,0
+Feb,female,16-39,0,Arab,07-18_07-24,18309,0.054617947457534545
+Feb,female,16-39,0,Arab,07-25_07-31,18306,0
+Feb,female,16-39,0,ultra-Orthodox Jewish,07-11_07-17,8275,0
+Feb,female,16-39,0,ultra-Orthodox Jewish,07-18_07-24,8274,0
+Feb,female,16-39,0,ultra-Orthodox Jewish,07-25_07-31,8269,0
+Feb,female,16-39,1,General Jewish,07-11_07-17,55795,0
+Feb,female,16-39,1,General Jewish,07-18_07-24,55751,0
+Feb,female,16-39,1,General Jewish,07-25_07-31,55653,0
+Feb,female,16-39,1,Arab,07-11_07-17,7976,0
+Feb,female,16-39,1,Arab,07-18_07-24,7975,0
+Feb,female,16-39,1,Arab,07-25_07-31,7974,0
+Feb,female,16-39,1,ultra-Orthodox Jewish,07-11_07-17,4723,0
+Feb,female,16-39,1,ultra-Orthodox Jewish,07-18_07-24,4722,0
+Feb,female,16-39,1,ultra-Orthodox Jewish,07-25_07-31,4721,0
+Feb,female,16-39,2+,General Jewish,07-11_07-17,32827,0
+Feb,female,16-39,2+,General Jewish,07-18_07-24,32790,0
+Feb,female,16-39,2+,General Jewish,07-25_07-31,32736,0
+Feb,female,16-39,2+,Arab,07-11_07-17,5538,0
+Feb,female,16-39,2+,Arab,07-18_07-24,5537,0
+Feb,female,16-39,2+,Arab,07-25_07-31,5534,0
+Feb,female,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,3996,0
+Feb,female,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,3995,0
+Feb,female,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,3992,0
+Mar,female,16-39,0,General Jewish,07-11_07-17,246116,0
+Mar,female,16-39,0,General Jewish,07-18_07-24,245996,0
+Mar,female,16-39,0,General Jewish,07-25_07-31,245758,0
+Mar,female,16-39,0,Arab,07-11_07-17,67288,0
+Mar,female,16-39,0,Arab,07-18_07-24,67287,0
+Mar,female,16-39,0,Arab,07-25_07-31,67279,0
+Mar,female,16-39,0,ultra-Orthodox Jewish,07-11_07-17,20596,0
+Mar,female,16-39,0,ultra-Orthodox Jewish,07-18_07-24,20594,0
+Mar,female,16-39,0,ultra-Orthodox Jewish,07-25_07-31,20588,0
+Mar,female,16-39,1,General Jewish,07-11_07-17,96530,0
+Mar,female,16-39,1,General Jewish,07-18_07-24,96474,0
+Mar,female,16-39,1,General Jewish,07-25_07-31,96367,0
+Mar,female,16-39,1,Arab,07-11_07-17,20164,0
+Mar,female,16-39,1,Arab,07-18_07-24,20160,0
+Mar,female,16-39,1,Arab,07-25_07-31,20156,0
+Mar,female,16-39,1,ultra-Orthodox Jewish,07-11_07-17,9495,0
+Mar,female,16-39,1,ultra-Orthodox Jewish,07-18_07-24,9488,0
+Mar,female,16-39,1,ultra-Orthodox Jewish,07-25_07-31,9484,0
+Mar,female,16-39,2+,General Jewish,07-11_07-17,46696,0
+Mar,female,16-39,2+,General Jewish,07-18_07-24,46648,0
+Mar,female,16-39,2+,General Jewish,07-25_07-31,46589,0
+Mar,female,16-39,2+,Arab,07-11_07-17,8903,0
+Mar,female,16-39,2+,Arab,07-18_07-24,8899,0
+Mar,female,16-39,2+,Arab,07-25_07-31,8898,0
+Mar,female,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,6488,0
+Mar,female,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,6487,0
+Mar,female,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,6486,0
+Apr-May,female,16-39,0,General Jewish,07-11_07-17,62828,0
+Apr-May,female,16-39,0,General Jewish,07-18_07-24,62808,0
+Apr-May,female,16-39,0,General Jewish,07-25_07-31,62782,0
+Apr-May,female,16-39,0,Arab,07-11_07-17,31733,0
+Apr-May,female,16-39,0,Arab,07-18_07-24,31727,0
+Apr-May,female,16-39,0,Arab,07-25_07-31,31725,0
+Apr-May,female,16-39,0,ultra-Orthodox Jewish,07-11_07-17,7582,0
+Apr-May,female,16-39,0,ultra-Orthodox Jewish,07-18_07-24,7582,0
+Apr-May,female,16-39,0,ultra-Orthodox Jewish,07-25_07-31,7580,0
+Apr-May,female,16-39,1,General Jewish,07-11_07-17,20145,0
+Apr-May,female,16-39,1,General Jewish,07-18_07-24,20139,0
+Apr-May,female,16-39,1,General Jewish,07-25_07-31,20127,0
+Apr-May,female,16-39,1,Arab,07-11_07-17,7813,0
+Apr-May,female,16-39,1,Arab,07-18_07-24,7812,0
+Apr-May,female,16-39,1,Arab,07-25_07-31,7810,0
+Apr-May,female,16-39,1,ultra-Orthodox Jewish,07-11_07-17,2929,0
+Apr-May,female,16-39,1,ultra-Orthodox Jewish,07-18_07-24,2928,0
+Apr-May,female,16-39,1,ultra-Orthodox Jewish,07-25_07-31,2927,0
+Apr-May,female,16-39,2+,General Jewish,07-11_07-17,10300,0
+Apr-May,female,16-39,2+,General Jewish,07-18_07-24,10296,0
+Apr-May,female,16-39,2+,General Jewish,07-25_07-31,10287,0
+Apr-May,female,16-39,2+,Arab,07-11_07-17,3406,0
+Apr-May,female,16-39,2+,Arab,07-18_07-24,3405,0
+Apr-May,female,16-39,2+,Arab,07-25_07-31,3403,0
+Apr-May,female,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,1816,0
+Apr-May,female,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,1816,0
+Apr-May,female,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,1815,0
+Jan,female,40-59,0,General Jewish,07-11_07-17,64554,0
+Jan,female,40-59,0,General Jewish,07-18_07-24,64505,0.015502674211301451
+Jan,female,40-59,0,General Jewish,07-25_07-31,64439,0.015518552429429382
+Jan,female,40-59,0,Arab,07-11_07-17,3634,0
+Jan,female,40-59,0,Arab,07-18_07-24,3633,0
+Jan,female,40-59,0,Arab,07-25_07-31,3633,0
+Jan,female,40-59,0,ultra-Orthodox Jewish,07-11_07-17,2385,0
+Jan,female,40-59,0,ultra-Orthodox Jewish,07-18_07-24,2385,0
+Jan,female,40-59,0,ultra-Orthodox Jewish,07-25_07-31,2384,0
+Jan,female,40-59,1,General Jewish,07-11_07-17,25876,0.038645849435770596
+Jan,female,40-59,1,General Jewish,07-18_07-24,25853,0
+Jan,female,40-59,1,General Jewish,07-25_07-31,25804,0.038753681599751975
+Jan,female,40-59,1,Arab,07-11_07-17,1670,0
+Jan,female,40-59,1,Arab,07-18_07-24,1669,0
+Jan,female,40-59,1,Arab,07-25_07-31,1666,0
+Jan,female,40-59,1,ultra-Orthodox Jewish,07-11_07-17,1049,0
+Jan,female,40-59,1,ultra-Orthodox Jewish,07-18_07-24,1049,0
+Jan,female,40-59,1,ultra-Orthodox Jewish,07-25_07-31,1047,0
+Jan,female,40-59,2+,General Jewish,07-11_07-17,27131,0.0368582064796727
+Jan,female,40-59,2+,General Jewish,07-18_07-24,27106,0.03689220098871098
+Jan,female,40-59,2+,General Jewish,07-25_07-31,27059,0
+Jan,female,40-59,2+,Arab,07-11_07-17,2591,0
+Jan,female,40-59,2+,Arab,07-18_07-24,2591,0
+Jan,female,40-59,2+,Arab,07-25_07-31,2588,0
+Jan,female,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,1227,0
+Jan,female,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,1227,0
+Jan,female,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,1226,0
+Feb,female,40-59,0,General Jewish,07-11_07-17,215069,0
+Feb,female,40-59,0,General Jewish,07-18_07-24,214932,0
+Feb,female,40-59,0,General Jewish,07-25_07-31,214728,0.004657054506165941
+Feb,female,40-59,0,Arab,07-11_07-17,26085,0
+Feb,female,40-59,0,Arab,07-18_07-24,26082,0
+Feb,female,40-59,0,Arab,07-25_07-31,26079,0
+Feb,female,40-59,0,ultra-Orthodox Jewish,07-11_07-17,7767,0
+Feb,female,40-59,0,ultra-Orthodox Jewish,07-18_07-24,7766,0
+Feb,female,40-59,0,ultra-Orthodox Jewish,07-25_07-31,7762,0
+Feb,female,40-59,1,General Jewish,07-11_07-17,72778,0
+Feb,female,40-59,1,General Jewish,07-18_07-24,72709,0
+Feb,female,40-59,1,General Jewish,07-25_07-31,72613,0.0137716386872874
+Feb,female,40-59,1,Arab,07-11_07-17,8761,0
+Feb,female,40-59,1,Arab,07-18_07-24,8756,0
+Feb,female,40-59,1,Arab,07-25_07-31,8751,0
+Feb,female,40-59,1,ultra-Orthodox Jewish,07-11_07-17,3211,0
+Feb,female,40-59,1,ultra-Orthodox Jewish,07-18_07-24,3211,0
+Feb,female,40-59,1,ultra-Orthodox Jewish,07-25_07-31,3208,0
+Feb,female,40-59,2+,General Jewish,07-11_07-17,37102,0
+Feb,female,40-59,2+,General Jewish,07-18_07-24,37057,0
+Feb,female,40-59,2+,General Jewish,07-25_07-31,37010,0.027019724398811132
+Feb,female,40-59,2+,Arab,07-11_07-17,5178,0
+Feb,female,40-59,2+,Arab,07-18_07-24,5178,0.19312475859405176
+Feb,female,40-59,2+,Arab,07-25_07-31,5172,0
+Feb,female,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,2374,0
+Feb,female,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,2374,0
+Feb,female,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,2373,0
+Mar,female,40-59,0,General Jewish,07-11_07-17,108202,0
+Mar,female,40-59,0,General Jewish,07-18_07-24,108142,0
+Mar,female,40-59,0,General Jewish,07-25_07-31,108067,0.01850703730093368
+Mar,female,40-59,0,Arab,07-11_07-17,34541,0
+Mar,female,40-59,0,Arab,07-18_07-24,34538,0
+Mar,female,40-59,0,Arab,07-25_07-31,34533,0
+Mar,female,40-59,0,ultra-Orthodox Jewish,07-11_07-17,5515,0
+Mar,female,40-59,0,ultra-Orthodox Jewish,07-18_07-24,5515,0
+Mar,female,40-59,0,ultra-Orthodox Jewish,07-25_07-31,5514,0
+Mar,female,40-59,1,General Jewish,07-11_07-17,27818,0
+Mar,female,40-59,1,General Jewish,07-18_07-24,27800,0
+Mar,female,40-59,1,General Jewish,07-25_07-31,27771,0
+Mar,female,40-59,1,Arab,07-11_07-17,7646,0
+Mar,female,40-59,1,Arab,07-18_07-24,7646,0
+Mar,female,40-59,1,Arab,07-25_07-31,7646,0
+Mar,female,40-59,1,ultra-Orthodox Jewish,07-11_07-17,1822,0
+Mar,female,40-59,1,ultra-Orthodox Jewish,07-18_07-24,1822,0
+Mar,female,40-59,1,ultra-Orthodox Jewish,07-25_07-31,1820,0
+Mar,female,40-59,2+,General Jewish,07-11_07-17,13854,0
+Mar,female,40-59,2+,General Jewish,07-18_07-24,13844,0
+Mar,female,40-59,2+,General Jewish,07-25_07-31,13822,0
+Mar,female,40-59,2+,Arab,07-11_07-17,3167,0
+Mar,female,40-59,2+,Arab,07-18_07-24,3166,0
+Mar,female,40-59,2+,Arab,07-25_07-31,3166,0
+Mar,female,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,1093,0
+Mar,female,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,1093,0
+Mar,female,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,1092,0
+Apr-May,female,40-59,0,General Jewish,07-11_07-17,25819,0
+Apr-May,female,40-59,0,General Jewish,07-18_07-24,25812,0
+Apr-May,female,40-59,0,General Jewish,07-25_07-31,25796,0
+Apr-May,female,40-59,0,Arab,07-11_07-17,12164,0
+Apr-May,female,40-59,0,Arab,07-18_07-24,12163,0
+Apr-May,female,40-59,0,Arab,07-25_07-31,12162,0
+Apr-May,female,40-59,0,ultra-Orthodox Jewish,07-11_07-17,1678,0
+Apr-May,female,40-59,0,ultra-Orthodox Jewish,07-18_07-24,1678,0
+Apr-May,female,40-59,0,ultra-Orthodox Jewish,07-25_07-31,1678,0
+Apr-May,female,40-59,1,General Jewish,07-11_07-17,5309,0
+Apr-May,female,40-59,1,General Jewish,07-18_07-24,5307,0
+Apr-May,female,40-59,1,General Jewish,07-25_07-31,5300,0
+Apr-May,female,40-59,1,Arab,07-11_07-17,2146,0
+Apr-May,female,40-59,1,Arab,07-18_07-24,2146,0
+Apr-May,female,40-59,1,Arab,07-25_07-31,2146,0
+Apr-May,female,40-59,1,ultra-Orthodox Jewish,07-11_07-17,465,0
+Apr-May,female,40-59,1,ultra-Orthodox Jewish,07-18_07-24,465,0
+Apr-May,female,40-59,1,ultra-Orthodox Jewish,07-25_07-31,465,0
+Apr-May,female,40-59,2+,General Jewish,07-11_07-17,3254,0
+Apr-May,female,40-59,2+,General Jewish,07-18_07-24,3251,0
+Apr-May,female,40-59,2+,General Jewish,07-25_07-31,3247,0
+Apr-May,female,40-59,2+,Arab,07-11_07-17,949,0
+Apr-May,female,40-59,2+,Arab,07-18_07-24,949,0
+Apr-May,female,40-59,2+,Arab,07-25_07-31,949,0
+Apr-May,female,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,287,0
+Apr-May,female,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,287,0
+Apr-May,female,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,287,0
+Jan,female,60+,0,General Jewish,07-11_07-17,244478,0.020451737988694277
+Jan,female,60+,0,General Jewish,07-18_07-24,244345,0.04501831426875933
+Jan,female,60+,0,General Jewish,07-25_07-31,244157,0.08601023112177819
+Jan,female,60+,0,Arab,07-11_07-17,8610,0
+Jan,female,60+,0,Arab,07-18_07-24,8610,0
+Jan,female,60+,0,Arab,07-25_07-31,8608,0.11617100371747212
+Jan,female,60+,0,ultra-Orthodox Jewish,07-11_07-17,9070,0
+Jan,female,60+,0,ultra-Orthodox Jewish,07-18_07-24,9069,0
+Jan,female,60+,0,ultra-Orthodox Jewish,07-25_07-31,9066,0.22060445621001543
+Jan,female,60+,1,General Jewish,07-11_07-17,55087,0.036306206546009044
+Jan,female,60+,1,General Jewish,07-18_07-24,55054,0.07265593780651723
+Jan,female,60+,1,General Jewish,07-25_07-31,54998,0.05454743808865777
+Jan,female,60+,1,Arab,07-11_07-17,2155,0
+Jan,female,60+,1,Arab,07-18_07-24,2155,0
+Jan,female,60+,1,Arab,07-25_07-31,2155,0
+Jan,female,60+,1,ultra-Orthodox Jewish,07-11_07-17,2315,0
+Jan,female,60+,1,ultra-Orthodox Jewish,07-18_07-24,2315,0.4319654427645788
+Jan,female,60+,1,ultra-Orthodox Jewish,07-25_07-31,2312,0
+Jan,female,60+,2+,General Jewish,07-11_07-17,42817,0.07006562813835626
+Jan,female,60+,2+,General Jewish,07-18_07-24,42794,0.2336776183577137
+Jan,female,60+,2+,General Jewish,07-25_07-31,42742,0.6083009686023115
+Jan,female,60+,2+,Arab,07-11_07-17,1509,0.6626905235255136
+Jan,female,60+,2+,Arab,07-18_07-24,1508,0
+Jan,female,60+,2+,Arab,07-25_07-31,1508,0
+Jan,female,60+,2+,ultra-Orthodox Jewish,07-11_07-17,1871,0
+Jan,female,60+,2+,ultra-Orthodox Jewish,07-18_07-24,1870,0.5347593582887701
+Jan,female,60+,2+,ultra-Orthodox Jewish,07-25_07-31,1868,1.0706638115631693
+Feb,female,60+,0,General Jewish,07-11_07-17,152692,0.006549131585151809
+Feb,female,60+,0,General Jewish,07-18_07-24,152628,0.03931126660901014
+Feb,female,60+,0,General Jewish,07-25_07-31,152512,0.0655686109945447
+Feb,female,60+,0,Arab,07-11_07-17,19415,0.05150656708730363
+Feb,female,60+,0,Arab,07-18_07-24,19413,0
+Feb,female,60+,0,Arab,07-25_07-31,19409,0.05152248956669586
+Feb,female,60+,0,ultra-Orthodox Jewish,07-11_07-17,7551,0
+Feb,female,60+,0,ultra-Orthodox Jewish,07-18_07-24,7548,0.13248542660307366
+Feb,female,60+,0,ultra-Orthodox Jewish,07-25_07-31,7544,0
+Feb,female,60+,1,General Jewish,07-11_07-17,30184,0
+Feb,female,60+,1,General Jewish,07-18_07-24,30170,0.06629101756711965
+Feb,female,60+,1,General Jewish,07-25_07-31,30139,0.2322572082683566
+Feb,female,60+,1,Arab,07-11_07-17,3789,0
+Feb,female,60+,1,Arab,07-18_07-24,3789,0
+Feb,female,60+,1,Arab,07-25_07-31,3789,0
+Feb,female,60+,1,ultra-Orthodox Jewish,07-11_07-17,1681,0
+Feb,female,60+,1,ultra-Orthodox Jewish,07-18_07-24,1679,0
+Feb,female,60+,1,ultra-Orthodox Jewish,07-25_07-31,1679,1.1911852293031568
+Feb,female,60+,2+,General Jewish,07-11_07-17,19579,0.051075131518463664
+Feb,female,60+,2+,General Jewish,07-18_07-24,19568,0.05110384300899428
+Feb,female,60+,2+,General Jewish,07-25_07-31,19550,0.25575447570332477
+Feb,female,60+,2+,Arab,07-11_07-17,1579,0
+Feb,female,60+,2+,Arab,07-18_07-24,1578,0
+Feb,female,60+,2+,Arab,07-25_07-31,1577,0
+Feb,female,60+,2+,ultra-Orthodox Jewish,07-11_07-17,1169,0
+Feb,female,60+,2+,ultra-Orthodox Jewish,07-18_07-24,1168,0
+Feb,female,60+,2+,ultra-Orthodox Jewish,07-25_07-31,1168,0.8561643835616438
+Mar,female,60+,0,General Jewish,07-11_07-17,44740,0.022351363433169423
+Mar,female,60+,0,General Jewish,07-18_07-24,44725,0.04471771939631079
+Mar,female,60+,0,General Jewish,07-25_07-31,44700,0.02237136465324385
+Mar,female,60+,0,Arab,07-11_07-17,11781,0
+Mar,female,60+,0,Arab,07-18_07-24,11781,0
+Mar,female,60+,0,Arab,07-25_07-31,11780,0
+Mar,female,60+,0,ultra-Orthodox Jewish,07-11_07-17,2568,0
+Mar,female,60+,0,ultra-Orthodox Jewish,07-18_07-24,2568,0.3894080996884735
+Mar,female,60+,0,ultra-Orthodox Jewish,07-25_07-31,2566,0.3897116134060795
+Mar,female,60+,1,General Jewish,07-11_07-17,6991,0
+Mar,female,60+,1,General Jewish,07-18_07-24,6984,0.14318442153493702
+Mar,female,60+,1,General Jewish,07-25_07-31,6976,0.143348623853211
+Mar,female,60+,1,Arab,07-11_07-17,1741,0
+Mar,female,60+,1,Arab,07-18_07-24,1741,0
+Mar,female,60+,1,Arab,07-25_07-31,1741,0
+Mar,female,60+,1,ultra-Orthodox Jewish,07-11_07-17,463,0
+Mar,female,60+,1,ultra-Orthodox Jewish,07-18_07-24,463,0
+Mar,female,60+,1,ultra-Orthodox Jewish,07-25_07-31,463,0
+Mar,female,60+,2+,General Jewish,07-11_07-17,4549,0.21982853374367994
+Mar,female,60+,2+,General Jewish,07-18_07-24,4545,0
+Mar,female,60+,2+,General Jewish,07-25_07-31,4542,0.44033465433729635
+Mar,female,60+,2+,Arab,07-11_07-17,621,0
+Mar,female,60+,2+,Arab,07-18_07-24,621,0
+Mar,female,60+,2+,Arab,07-25_07-31,621,0
+Mar,female,60+,2+,ultra-Orthodox Jewish,07-11_07-17,305,0
+Mar,female,60+,2+,ultra-Orthodox Jewish,07-18_07-24,305,0
+Mar,female,60+,2+,ultra-Orthodox Jewish,07-25_07-31,305,0
+Apr-May,female,60+,0,General Jewish,07-11_07-17,14967,0
+Apr-May,female,60+,0,General Jewish,07-18_07-24,14966,0.13363624214887077
+Apr-May,female,60+,0,General Jewish,07-25_07-31,14957,0.06685832720465333
+Apr-May,female,60+,0,Arab,07-11_07-17,4272,0
+Apr-May,female,60+,0,Arab,07-18_07-24,4272,0
+Apr-May,female,60+,0,Arab,07-25_07-31,4272,0.2340823970037453
+Apr-May,female,60+,0,ultra-Orthodox Jewish,07-11_07-17,876,0
+Apr-May,female,60+,0,ultra-Orthodox Jewish,07-18_07-24,876,0
+Apr-May,female,60+,0,ultra-Orthodox Jewish,07-25_07-31,876,0
+Apr-May,female,60+,1,General Jewish,07-11_07-17,2170,0
+Apr-May,female,60+,1,General Jewish,07-18_07-24,2170,0
+Apr-May,female,60+,1,General Jewish,07-25_07-31,2169,0
+Apr-May,female,60+,1,Arab,07-11_07-17,571,0
+Apr-May,female,60+,1,Arab,07-18_07-24,571,0
+Apr-May,female,60+,1,Arab,07-25_07-31,571,0
+Apr-May,female,60+,1,ultra-Orthodox Jewish,07-11_07-17,164,0
+Apr-May,female,60+,1,ultra-Orthodox Jewish,07-18_07-24,164,0
+Apr-May,female,60+,1,ultra-Orthodox Jewish,07-25_07-31,164,0
+Apr-May,female,60+,2+,General Jewish,07-11_07-17,1612,0
+Apr-May,female,60+,2+,General Jewish,07-18_07-24,1612,0
+Apr-May,female,60+,2+,General Jewish,07-25_07-31,1609,0
+Apr-May,female,60+,2+,Arab,07-11_07-17,255,0
+Apr-May,female,60+,2+,Arab,07-18_07-24,255,0
+Apr-May,female,60+,2+,Arab,07-25_07-31,255,0
+Apr-May,female,60+,2+,ultra-Orthodox Jewish,07-11_07-17,124,0
+Apr-May,female,60+,2+,ultra-Orthodox Jewish,07-18_07-24,124,0
+Apr-May,female,60+,2+,ultra-Orthodox Jewish,07-25_07-31,124,0
+Jan,male,16-39,0,General Jewish,07-11_07-17,25035,0
+Jan,male,16-39,0,General Jewish,07-18_07-24,25019,0
+Jan,male,16-39,0,General Jewish,07-25_07-31,24991,0
+Jan,male,16-39,0,Arab,07-11_07-17,3179,0
+Jan,male,16-39,0,Arab,07-18_07-24,3179,0
+Jan,male,16-39,0,Arab,07-25_07-31,3179,0
+Jan,male,16-39,0,ultra-Orthodox Jewish,07-11_07-17,2353,0
+Jan,male,16-39,0,ultra-Orthodox Jewish,07-18_07-24,2353,0
+Jan,male,16-39,0,ultra-Orthodox Jewish,07-25_07-31,2352,0
+Jan,male,16-39,1,General Jewish,07-11_07-17,12357,0
+Jan,male,16-39,1,General Jewish,07-18_07-24,12341,0
+Jan,male,16-39,1,General Jewish,07-25_07-31,12318,0
+Jan,male,16-39,1,Arab,07-11_07-17,2080,0
+Jan,male,16-39,1,Arab,07-18_07-24,2078,0
+Jan,male,16-39,1,Arab,07-25_07-31,2077,0
+Jan,male,16-39,1,ultra-Orthodox Jewish,07-11_07-17,1245,0
+Jan,male,16-39,1,ultra-Orthodox Jewish,07-18_07-24,1245,0
+Jan,male,16-39,1,ultra-Orthodox Jewish,07-25_07-31,1245,0
+Jan,male,16-39,2+,General Jewish,07-11_07-17,13207,0
+Jan,male,16-39,2+,General Jewish,07-18_07-24,13192,0
+Jan,male,16-39,2+,General Jewish,07-25_07-31,13160,0
+Jan,male,16-39,2+,Arab,07-11_07-17,4008,0
+Jan,male,16-39,2+,Arab,07-18_07-24,4004,0
+Jan,male,16-39,2+,Arab,07-25_07-31,4000,0
+Jan,male,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,2030,0
+Jan,male,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,2030,0
+Jan,male,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,2029,0
+Feb,male,16-39,0,General Jewish,07-11_07-17,145319,0
+Feb,male,16-39,0,General Jewish,07-18_07-24,145222,0
+Feb,male,16-39,0,General Jewish,07-25_07-31,145087,0
+Feb,male,16-39,0,Arab,07-11_07-17,19665,0
+Feb,male,16-39,0,Arab,07-18_07-24,19661,0
+Feb,male,16-39,0,Arab,07-25_07-31,19656,0
+Feb,male,16-39,0,ultra-Orthodox Jewish,07-11_07-17,8071,0
+Feb,male,16-39,0,ultra-Orthodox Jewish,07-18_07-24,8071,0
+Feb,male,16-39,0,ultra-Orthodox Jewish,07-25_07-31,8068,0
+Feb,male,16-39,1,General Jewish,07-11_07-17,55733,0
+Feb,male,16-39,1,General Jewish,07-18_07-24,55687,0
+Feb,male,16-39,1,General Jewish,07-25_07-31,55611,0
+Feb,male,16-39,1,Arab,07-11_07-17,8104,0
+Feb,male,16-39,1,Arab,07-18_07-24,8101,0
+Feb,male,16-39,1,Arab,07-25_07-31,8101,0
+Feb,male,16-39,1,ultra-Orthodox Jewish,07-11_07-17,3636,0
+Feb,male,16-39,1,ultra-Orthodox Jewish,07-18_07-24,3633,0
+Feb,male,16-39,1,ultra-Orthodox Jewish,07-25_07-31,3631,0
+Feb,male,16-39,2+,General Jewish,07-11_07-17,32434,0
+Feb,male,16-39,2+,General Jewish,07-18_07-24,32405,0
+Feb,male,16-39,2+,General Jewish,07-25_07-31,32365,0
+Feb,male,16-39,2+,Arab,07-11_07-17,5957,0
+Feb,male,16-39,2+,Arab,07-18_07-24,5956,0
+Feb,male,16-39,2+,Arab,07-25_07-31,5956,0
+Feb,male,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,4491,0
+Feb,male,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,4489,0
+Feb,male,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,4484,0
+Mar,male,16-39,0,General Jewish,07-11_07-17,273974,0
+Mar,male,16-39,0,General Jewish,07-18_07-24,273888,0
+Mar,male,16-39,0,General Jewish,07-25_07-31,273718,0
+Mar,male,16-39,0,Arab,07-11_07-17,73200,0
+Mar,male,16-39,0,Arab,07-18_07-24,73198,0
+Mar,male,16-39,0,Arab,07-25_07-31,73196,0
+Mar,male,16-39,0,ultra-Orthodox Jewish,07-11_07-17,20248,0
+Mar,male,16-39,0,ultra-Orthodox Jewish,07-18_07-24,20246,0
+Mar,male,16-39,0,ultra-Orthodox Jewish,07-25_07-31,20240,0
+Mar,male,16-39,1,General Jewish,07-11_07-17,80176,0
+Mar,male,16-39,1,General Jewish,07-18_07-24,80129,0
+Mar,male,16-39,1,General Jewish,07-25_07-31,80052,0
+Mar,male,16-39,1,Arab,07-11_07-17,20110,0
+Mar,male,16-39,1,Arab,07-18_07-24,20107,0
+Mar,male,16-39,1,Arab,07-25_07-31,20101,0
+Mar,male,16-39,1,ultra-Orthodox Jewish,07-11_07-17,6699,0
+Mar,male,16-39,1,ultra-Orthodox Jewish,07-18_07-24,6699,0
+Mar,male,16-39,1,ultra-Orthodox Jewish,07-25_07-31,6698,0
+Mar,male,16-39,2+,General Jewish,07-11_07-17,35600,0
+Mar,male,16-39,2+,General Jewish,07-18_07-24,35581,0
+Mar,male,16-39,2+,General Jewish,07-25_07-31,35544,0
+Mar,male,16-39,2+,Arab,07-11_07-17,8026,0
+Mar,male,16-39,2+,Arab,07-18_07-24,8023,0
+Mar,male,16-39,2+,Arab,07-25_07-31,8020,0
+Mar,male,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,5560,0
+Mar,male,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,5560,0
+Mar,male,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,5557,0
+Apr-May,male,16-39,0,General Jewish,07-11_07-17,63480,0
+Apr-May,male,16-39,0,General Jewish,07-18_07-24,63460,0
+Apr-May,male,16-39,0,General Jewish,07-25_07-31,63426,0
+Apr-May,male,16-39,0,Arab,07-11_07-17,33036,0
+Apr-May,male,16-39,0,Arab,07-18_07-24,33034,0
+Apr-May,male,16-39,0,Arab,07-25_07-31,33033,0
+Apr-May,male,16-39,0,ultra-Orthodox Jewish,07-11_07-17,6018,0
+Apr-May,male,16-39,0,ultra-Orthodox Jewish,07-18_07-24,6018,0
+Apr-May,male,16-39,0,ultra-Orthodox Jewish,07-25_07-31,6017,0
+Apr-May,male,16-39,1,General Jewish,07-11_07-17,13974,0
+Apr-May,male,16-39,1,General Jewish,07-18_07-24,13972,0
+Apr-May,male,16-39,1,General Jewish,07-25_07-31,13962,0
+Apr-May,male,16-39,1,Arab,07-11_07-17,7822,0
+Apr-May,male,16-39,1,Arab,07-18_07-24,7822,0
+Apr-May,male,16-39,1,Arab,07-25_07-31,7822,0
+Apr-May,male,16-39,1,ultra-Orthodox Jewish,07-11_07-17,1690,0
+Apr-May,male,16-39,1,ultra-Orthodox Jewish,07-18_07-24,1690,0
+Apr-May,male,16-39,1,ultra-Orthodox Jewish,07-25_07-31,1690,0
+Apr-May,male,16-39,2+,General Jewish,07-11_07-17,6240,0
+Apr-May,male,16-39,2+,General Jewish,07-18_07-24,6237,0
+Apr-May,male,16-39,2+,General Jewish,07-25_07-31,6235,0
+Apr-May,male,16-39,2+,Arab,07-11_07-17,2797,0
+Apr-May,male,16-39,2+,Arab,07-18_07-24,2797,0
+Apr-May,male,16-39,2+,Arab,07-25_07-31,2797,0
+Apr-May,male,16-39,2+,ultra-Orthodox Jewish,07-11_07-17,1374,0
+Apr-May,male,16-39,2+,ultra-Orthodox Jewish,07-18_07-24,1374,0
+Apr-May,male,16-39,2+,ultra-Orthodox Jewish,07-25_07-31,1374,0
+Jan,male,40-59,0,General Jewish,07-11_07-17,56147,0
+Jan,male,40-59,0,General Jewish,07-18_07-24,56115,0
+Jan,male,40-59,0,General Jewish,07-25_07-31,56046,0
+Jan,male,40-59,0,Arab,07-11_07-17,4894,0
+Jan,male,40-59,0,Arab,07-18_07-24,4891,0
+Jan,male,40-59,0,Arab,07-25_07-31,4891,0
+Jan,male,40-59,0,ultra-Orthodox Jewish,07-11_07-17,2733,0
+Jan,male,40-59,0,ultra-Orthodox Jewish,07-18_07-24,2731,0
+Jan,male,40-59,0,ultra-Orthodox Jewish,07-25_07-31,2730,0
+Jan,male,40-59,1,General Jewish,07-11_07-17,22880,0
+Jan,male,40-59,1,General Jewish,07-18_07-24,22864,0.0437368789363191
+Jan,male,40-59,1,General Jewish,07-25_07-31,22815,0
+Jan,male,40-59,1,Arab,07-11_07-17,2390,0
+Jan,male,40-59,1,Arab,07-18_07-24,2389,0
+Jan,male,40-59,1,Arab,07-25_07-31,2387,0
+Jan,male,40-59,1,ultra-Orthodox Jewish,07-11_07-17,1226,0
+Jan,male,40-59,1,ultra-Orthodox Jewish,07-18_07-24,1226,0
+Jan,male,40-59,1,ultra-Orthodox Jewish,07-25_07-31,1224,0
+Jan,male,40-59,2+,General Jewish,07-11_07-17,19204,0
+Jan,male,40-59,2+,General Jewish,07-18_07-24,19187,0.052118621983634754
+Jan,male,40-59,2+,General Jewish,07-25_07-31,19153,0.05221114185767242
+Jan,male,40-59,2+,Arab,07-11_07-17,2901,0
+Jan,male,40-59,2+,Arab,07-18_07-24,2901,0
+Jan,male,40-59,2+,Arab,07-25_07-31,2897,0
+Jan,male,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,1249,0
+Jan,male,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,1249,0
+Jan,male,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,1248,0
+Feb,male,40-59,0,General Jewish,07-11_07-17,219134,0.0045634178174085265
+Feb,male,40-59,0,General Jewish,07-18_07-24,219004,0.009132253292177312
+Feb,male,40-59,0,General Jewish,07-25_07-31,218746,0.00914302432958774
+Feb,male,40-59,0,Arab,07-11_07-17,29423,0
+Feb,male,40-59,0,Arab,07-18_07-24,29422,0.033988172116103596
+Feb,male,40-59,0,Arab,07-25_07-31,29415,0.03399626041135475
+Feb,male,40-59,0,ultra-Orthodox Jewish,07-11_07-17,8784,0
+Feb,male,40-59,0,ultra-Orthodox Jewish,07-18_07-24,8784,0
+Feb,male,40-59,0,ultra-Orthodox Jewish,07-25_07-31,8780,0
+Feb,male,40-59,1,General Jewish,07-11_07-17,63507,0
+Feb,male,40-59,1,General Jewish,07-18_07-24,63438,0
+Feb,male,40-59,1,General Jewish,07-25_07-31,63343,0.0157870640796931
+Feb,male,40-59,1,Arab,07-11_07-17,9265,0
+Feb,male,40-59,1,Arab,07-18_07-24,9264,0
+Feb,male,40-59,1,Arab,07-25_07-31,9262,0
+Feb,male,40-59,1,ultra-Orthodox Jewish,07-11_07-17,2989,0
+Feb,male,40-59,1,ultra-Orthodox Jewish,07-18_07-24,2989,0
+Feb,male,40-59,1,ultra-Orthodox Jewish,07-25_07-31,2987,0.33478406427854035
+Feb,male,40-59,2+,General Jewish,07-11_07-17,27683,0
+Feb,male,40-59,2+,General Jewish,07-18_07-24,27663,0
+Feb,male,40-59,2+,General Jewish,07-25_07-31,27622,0.036203026573021505
+Feb,male,40-59,2+,Arab,07-11_07-17,5331,0
+Feb,male,40-59,2+,Arab,07-18_07-24,5329,0
+Feb,male,40-59,2+,Arab,07-25_07-31,5328,0
+Feb,male,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,1879,0
+Feb,male,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,1879,0
+Feb,male,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,1875,0
+Mar,male,40-59,0,General Jewish,07-11_07-17,111025,0.009006980409817608
+Mar,male,40-59,0,General Jewish,07-18_07-24,110970,0
+Mar,male,40-59,0,General Jewish,07-25_07-31,110903,0
+Mar,male,40-59,0,Arab,07-11_07-17,35207,0
+Mar,male,40-59,0,Arab,07-18_07-24,35206,0
+Mar,male,40-59,0,Arab,07-25_07-31,35205,0
+Mar,male,40-59,0,ultra-Orthodox Jewish,07-11_07-17,5842,0
+Mar,male,40-59,0,ultra-Orthodox Jewish,07-18_07-24,5842,0
+Mar,male,40-59,0,ultra-Orthodox Jewish,07-25_07-31,5839,0
+Mar,male,40-59,1,General Jewish,07-11_07-17,21575,0
+Mar,male,40-59,1,General Jewish,07-18_07-24,21560,0
+Mar,male,40-59,1,General Jewish,07-25_07-31,21536,0
+Mar,male,40-59,1,Arab,07-11_07-17,7683,0
+Mar,male,40-59,1,Arab,07-18_07-24,7681,0
+Mar,male,40-59,1,Arab,07-25_07-31,7680,0
+Mar,male,40-59,1,ultra-Orthodox Jewish,07-11_07-17,1427,0
+Mar,male,40-59,1,ultra-Orthodox Jewish,07-18_07-24,1427,0
+Mar,male,40-59,1,ultra-Orthodox Jewish,07-25_07-31,1425,0
+Mar,male,40-59,2+,General Jewish,07-11_07-17,8218,0
+Mar,male,40-59,2+,General Jewish,07-18_07-24,8211,0
+Mar,male,40-59,2+,General Jewish,07-25_07-31,8193,0
+Mar,male,40-59,2+,Arab,07-11_07-17,3086,0
+Mar,male,40-59,2+,Arab,07-18_07-24,3086,0
+Mar,male,40-59,2+,Arab,07-25_07-31,3086,0
+Mar,male,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,669,0
+Mar,male,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,669,0
+Mar,male,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,669,0
+Apr-May,male,40-59,0,General Jewish,07-11_07-17,27285,0
+Apr-May,male,40-59,0,General Jewish,07-18_07-24,27281,0.03665554781716213
+Apr-May,male,40-59,0,General Jewish,07-25_07-31,27274,0
+Apr-May,male,40-59,0,Arab,07-11_07-17,10749,0
+Apr-May,male,40-59,0,Arab,07-18_07-24,10749,0
+Apr-May,male,40-59,0,Arab,07-25_07-31,10748,0
+Apr-May,male,40-59,0,ultra-Orthodox Jewish,07-11_07-17,1644,0
+Apr-May,male,40-59,0,ultra-Orthodox Jewish,07-18_07-24,1644,0
+Apr-May,male,40-59,0,ultra-Orthodox Jewish,07-25_07-31,1644,0
+Apr-May,male,40-59,1,General Jewish,07-11_07-17,3816,0
+Apr-May,male,40-59,1,General Jewish,07-18_07-24,3814,0
+Apr-May,male,40-59,1,General Jewish,07-25_07-31,3812,0
+Apr-May,male,40-59,1,Arab,07-11_07-17,2013,0
+Apr-May,male,40-59,1,Arab,07-18_07-24,2013,0
+Apr-May,male,40-59,1,Arab,07-25_07-31,2013,0
+Apr-May,male,40-59,1,ultra-Orthodox Jewish,07-11_07-17,314,0
+Apr-May,male,40-59,1,ultra-Orthodox Jewish,07-18_07-24,314,0
+Apr-May,male,40-59,1,ultra-Orthodox Jewish,07-25_07-31,314,0
+Apr-May,male,40-59,2+,General Jewish,07-11_07-17,1661,0
+Apr-May,male,40-59,2+,General Jewish,07-18_07-24,1661,0
+Apr-May,male,40-59,2+,General Jewish,07-25_07-31,1659,0
+Apr-May,male,40-59,2+,Arab,07-11_07-17,788,0
+Apr-May,male,40-59,2+,Arab,07-18_07-24,788,0
+Apr-May,male,40-59,2+,Arab,07-25_07-31,788,0
+Apr-May,male,40-59,2+,ultra-Orthodox Jewish,07-11_07-17,170,0
+Apr-May,male,40-59,2+,ultra-Orthodox Jewish,07-18_07-24,170,0
+Apr-May,male,40-59,2+,ultra-Orthodox Jewish,07-25_07-31,170,0
+Jan,male,60+,0,General Jewish,07-11_07-17,225438,0.05766552222784091
+Jan,male,60+,0,General Jewish,07-18_07-24,225289,0.1109685781374146
+Jan,male,60+,0,General Jewish,07-25_07-31,225053,0.19995289998355942
+Jan,male,60+,0,Arab,07-11_07-17,10359,0
+Jan,male,60+,0,Arab,07-18_07-24,10356,0
+Jan,male,60+,0,Arab,07-25_07-31,10354,0.2897430944562488
+Jan,male,60+,0,ultra-Orthodox Jewish,07-11_07-17,8710,0
+Jan,male,60+,0,ultra-Orthodox Jewish,07-18_07-24,8710,0
+Jan,male,60+,0,ultra-Orthodox Jewish,07-25_07-31,8705,0
+Jan,male,60+,1,General Jewish,07-11_07-17,54731,0.05481354259925819
+Jan,male,60+,1,General Jewish,07-18_07-24,54674,0.10974137615685702
+Jan,male,60+,1,General Jewish,07-25_07-31,54593,0.25644313373509425
+Jan,male,60+,1,Arab,07-11_07-17,3277,0
+Jan,male,60+,1,Arab,07-18_07-24,3277,0
+Jan,male,60+,1,Arab,07-25_07-31,3276,0
+Jan,male,60+,1,ultra-Orthodox Jewish,07-11_07-17,2253,0
+Jan,male,60+,1,ultra-Orthodox Jewish,07-18_07-24,2253,0
+Jan,male,60+,1,ultra-Orthodox Jewish,07-25_07-31,2249,0
+Jan,male,60+,2+,General Jewish,07-11_07-17,30735,0.0976085895558809
+Jan,male,60+,2+,General Jewish,07-18_07-24,30715,0.42324597102392963
+Jan,male,60+,2+,General Jewish,07-25_07-31,30665,0.6195988912440893
+Jan,male,60+,2+,Arab,07-11_07-17,2084,0
+Jan,male,60+,2+,Arab,07-18_07-24,2083,0
+Jan,male,60+,2+,Arab,07-25_07-31,2081,1.4416146083613646
+Jan,male,60+,2+,ultra-Orthodox Jewish,07-11_07-17,1491,0
+Jan,male,60+,2+,ultra-Orthodox Jewish,07-18_07-24,1491,0
+Jan,male,60+,2+,ultra-Orthodox Jewish,07-25_07-31,1490,0.6711409395973154
+Feb,male,60+,0,General Jewish,07-11_07-17,120181,0.08320782819247635
+Feb,male,60+,0,General Jewish,07-18_07-24,120123,0.09157280454201111
+Feb,male,60+,0,General Jewish,07-25_07-31,120019,0.17497229605312492
+Feb,male,60+,0,Arab,07-11_07-17,17530,0
+Feb,male,60+,0,Arab,07-18_07-24,17528,0
+Feb,male,60+,0,Arab,07-25_07-31,17526,0.05705808513066301
+Feb,male,60+,0,ultra-Orthodox Jewish,07-11_07-17,6132,0.16307893020221786
+Feb,male,60+,0,ultra-Orthodox Jewish,07-18_07-24,6129,0
+Feb,male,60+,0,ultra-Orthodox Jewish,07-25_07-31,6124,0.16329196603527107
+Feb,male,60+,1,General Jewish,07-11_07-17,23408,0.1281613123718387
+Feb,male,60+,1,General Jewish,07-18_07-24,23395,0.12823252831801668
+Feb,male,60+,1,General Jewish,07-25_07-31,23373,0.1283532280836863
+Feb,male,60+,1,Arab,07-11_07-17,4092,0
+Feb,male,60+,1,Arab,07-18_07-24,4091,0.24443901246638963
+Feb,male,60+,1,Arab,07-25_07-31,4090,0.7334963325183375
+Feb,male,60+,1,ultra-Orthodox Jewish,07-11_07-17,1257,0
+Feb,male,60+,1,ultra-Orthodox Jewish,07-18_07-24,1256,0
+Feb,male,60+,1,ultra-Orthodox Jewish,07-25_07-31,1255,0
+Feb,male,60+,2+,General Jewish,07-11_07-17,12640,0.07911392405063292
+Feb,male,60+,2+,General Jewish,07-18_07-24,12632,0.31665611146295125
+Feb,male,60+,2+,General Jewish,07-25_07-31,12616,0.5548509828788839
+Feb,male,60+,2+,Arab,07-11_07-17,1993,0
+Feb,male,60+,2+,Arab,07-18_07-24,1991,0
+Feb,male,60+,2+,Arab,07-25_07-31,1991,0
+Feb,male,60+,2+,ultra-Orthodox Jewish,07-11_07-17,748,0
+Feb,male,60+,2+,ultra-Orthodox Jewish,07-18_07-24,747,0
+Feb,male,60+,2+,ultra-Orthodox Jewish,07-25_07-31,746,0
+Mar,male,60+,0,General Jewish,07-11_07-17,30462,0.03282778543759438
+Mar,male,60+,0,General Jewish,07-18_07-24,30451,0
+Mar,male,60+,0,General Jewish,07-25_07-31,30440,0.1314060446780552
+Mar,male,60+,0,Arab,07-11_07-17,8491,0
+Mar,male,60+,0,Arab,07-18_07-24,8491,0
+Mar,male,60+,0,Arab,07-25_07-31,8491,0.1177717583323519
+Mar,male,60+,0,ultra-Orthodox Jewish,07-11_07-17,2002,0
+Mar,male,60+,0,ultra-Orthodox Jewish,07-18_07-24,2002,0
+Mar,male,60+,0,ultra-Orthodox Jewish,07-25_07-31,2002,0
+Mar,male,60+,1,General Jewish,07-11_07-17,4472,0.22361359570661896
+Mar,male,60+,1,General Jewish,07-18_07-24,4471,0
+Mar,male,60+,1,General Jewish,07-25_07-31,4468,0
+Mar,male,60+,1,Arab,07-11_07-17,1509,0.6626905235255136
+Mar,male,60+,1,Arab,07-18_07-24,1508,0
+Mar,male,60+,1,Arab,07-25_07-31,1508,0
+Mar,male,60+,1,ultra-Orthodox Jewish,07-11_07-17,342,0
+Mar,male,60+,1,ultra-Orthodox Jewish,07-18_07-24,342,0
+Mar,male,60+,1,ultra-Orthodox Jewish,07-25_07-31,340,0
+Mar,male,60+,2+,General Jewish,07-11_07-17,2342,0
+Mar,male,60+,2+,General Jewish,07-18_07-24,2342,0
+Mar,male,60+,2+,General Jewish,07-25_07-31,2341,0
+Mar,male,60+,2+,Arab,07-11_07-17,610,0
+Mar,male,60+,2+,Arab,07-18_07-24,610,0
+Mar,male,60+,2+,Arab,07-25_07-31,609,0
+Mar,male,60+,2+,ultra-Orthodox Jewish,07-11_07-17,214,0
+Mar,male,60+,2+,ultra-Orthodox Jewish,07-18_07-24,214,0
+Mar,male,60+,2+,ultra-Orthodox Jewish,07-25_07-31,214,0
+Apr-May,male,60+,0,General Jewish,07-11_07-17,9087,0
+Apr-May,male,60+,0,General Jewish,07-18_07-24,9086,0
+Apr-May,male,60+,0,General Jewish,07-25_07-31,9082,0
+Apr-May,male,60+,0,Arab,07-11_07-17,2419,0
+Apr-May,male,60+,0,Arab,07-18_07-24,2419,0
+Apr-May,male,60+,0,Arab,07-25_07-31,2419,0
+Apr-May,male,60+,0,ultra-Orthodox Jewish,07-11_07-17,607,0
+Apr-May,male,60+,0,ultra-Orthodox Jewish,07-18_07-24,607,0
+Apr-May,male,60+,0,ultra-Orthodox Jewish,07-25_07-31,607,0
+Apr-May,male,60+,1,General Jewish,07-11_07-17,1327,0
+Apr-May,male,60+,1,General Jewish,07-18_07-24,1327,0
+Apr-May,male,60+,1,General Jewish,07-25_07-31,1326,0
+Apr-May,male,60+,1,Arab,07-11_07-17,433,0
+Apr-May,male,60+,1,Arab,07-18_07-24,433,0
+Apr-May,male,60+,1,Arab,07-25_07-31,433,0
+Apr-May,male,60+,1,ultra-Orthodox Jewish,07-11_07-17,92,0
+Apr-May,male,60+,1,ultra-Orthodox Jewish,07-18_07-24,92,0
+Apr-May,male,60+,1,ultra-Orthodox Jewish,07-25_07-31,92,0
+Apr-May,male,60+,2+,General Jewish,07-11_07-17,868,1.152073732718894
+Apr-May,male,60+,2+,General Jewish,07-18_07-24,867,0
+Apr-May,male,60+,2+,General Jewish,07-25_07-31,867,0
+Apr-May,male,60+,2+,Arab,07-11_07-17,172,0
+Apr-May,male,60+,2+,Arab,07-18_07-24,172,0
+Apr-May,male,60+,2+,Arab,07-25_07-31,172,0
+Apr-May,male,60+,2+,ultra-Orthodox Jewish,07-11_07-17,95,0
+Apr-May,male,60+,2+,ultra-Orthodox Jewish,07-18_07-24,95,0
+Apr-May,male,60+,2+,ultra-Orthodox Jewish,07-25_07-31,95,0
